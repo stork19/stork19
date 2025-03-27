@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome to KOSICK's github 👋
+안녕하세요 신입 데이터분석가가 되고픈 개발사 서호성입니다.ㅣ
 
 <!--
 **stork19/stork19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
